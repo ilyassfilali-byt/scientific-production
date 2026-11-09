@@ -1,0 +1,77 @@
+---
+title: "Communications"
+author: "Ilyass Filali Alaoui"
+date: "Updated 2026-04-29"
+output: html_document
+---
+
+
+# Articles
+
+Phytoparasitic nematodes of organic vegetables in the Argan Biosphere of Souss-Massa (Southern Morocco).
+https://doi.org/10.1007/s11356-021-12986-8
+
+Biocontrol potential of essential oil from Moroccan Ridolfia segetum (L.). Moris.
+https://doi.org/10.1007/s41348-021-00489-0
+
+Nematodes associated with saffron II: Bioindication for soil health assessment and impact of agricultural practices.
+https://doi.org/10.1016/j.apsoil.2023.105111
+
+Diversity, distribution, and biological control strategies of plant parasitic nematodes: insights from Morocco within a global context—a comprehensive review and future research perspectives.
+https://doi.org/10.1007/s41348-024-00972-4
+
+Microbial communities and high trophic level nematodes in protected argan soil show strong suppressive effect against Meloidogyne spp.
+https://doi.org/10.1016/j.gecco.2024.e03191
+
+Linking soil health and carbon dynamics to conservation measures: Evidence from nematode communities in Souss-Massa National Park, Morocco.
+https://doi.org/10.1016/j.foreco.2024.122249
+
+Moroccan brown algae as a source of bionematicidal against root-knot nematode (Meloidogyne spp.).
+https://doi.org/10.1016/j.napere.2025.100135
+
+Environmental factors shaping soil nematode community structure in the Arganeraie biosphere reserve: Insights from arid and semi-arid ecosystems.
+https://doi.org/10.1016/j.pedsph.2025.09.003
+
+Biocontrol potential of Euphorbia paralias L. against phytoparasitic nematodes: A new botanical resource for sustainable nematode management.
+https://doi.org/10.1016/j.napere.2025.100176
+
+Cushion plants in the Alps are swarming with invertebrate life.
+https://doi.org/10.1007/s00035-025-00335-1
+
+Impact of Farming Practices on Soil Physico-Chemical Properties and Nematode Dynamics in Moroccan Saffron Agroecosystems.
+https://doi.org/10.1007/s40003-025-00899-8
+
+Soil carbon-moisture gradients are associated with nematode food-web organization across dryland agroecosystems.
+https://doi.org/10.1016/j.pedsph.2026.09.003
+
+
+# Communications 
+
+Poster: Filali Alaoui I., Mayad E.H., Idhmida A., Mzough E., Dehbi J., Ferji Z., El Mousadik A., Basaid K., Aït Hamza M.
+Soil nematode diversity from organic vegetable fields (Central Morocco).
+6th Young Natural History Scientists Meeting, Biodiversity Dynamics and Conservation Session, Muséum National d’Histoire Naturelle, Paris, France, 12–16 March 2019. 
+
+Oral: Filali Alaoui I., Aït Hamza M., Idhmida A., Mzough E., Dehbi J., Basaid K., Furze J., Ferji Z., Elmousadik A., Azim K., Mayad EH.
+Diversity and distribution of plant-parasitic nematodes associated with organic vegetables in the Souss-Massa region.
+First EU/north-African Conference on Organic Agriculture (EU-NACOA) “Bridging the Gap, empowering Organic Africa”, Marrakech, Morocco, 11-12 November 2019. 
+
+Oral: Filali Alaoui I., Mzough E., Mayad EH., Chebli B., Sadki I., El mousadik A.
+In vitro nematicidal potential for extracts of the MAP Cymbopogon citratus and Pelargonium graveolens against root-knot nematodes.
+6ème édition de l'Ecole Internationale de Recherche Biodiversité des PAM, Biotechnologies, Produits de Terroirs et Valorisation des Substances Naturelles”, Faculté des Sciences d'Agadir, 19-21 Avril 2018. 
+
+Oral:Filali Alaoui I., Zahidi A., EL MOUSADIK A.
+Reproduction system in Argania spinosa (L.).
+3éme édition du Congrès International de l'Arganier, Agadir, 17-19 December 2015. 
+
+Oral: Filali Alaoui I., Zahidi A., EL MOUSADIK A.
+Reproduction system in Argania spinosa (L.).
+3éme édition de l'Ecole de recherche Biotechnologies, Biodiversité, Produits de Terroirs et Valorisation, Faculté des Sciences d'Agadir, 02-04 June 2015. 
+
+# Scientific event organizations
+
+Organizing committee member.
+9ème édition de l'Ecole Internationale de Recherche Biotechnologies Vertes et Microbiennes, Biodiversité, PAM Santé & Envirennement, Faculté des Sciences et Faculté de Médcine et de Pharmacie d'Agadir, 14-16 December 2023.  
+
+Organizing committee member.
+8ème édition de l'Ecole Internationale de Recherche Biodiversité, Biotechnologies, Durabilité et Innovation, Faculté des Sciencesd'Agadir, Faculté de Médcine et de Pharmacie d'Agadir et Faculté des Sciences Appliquées d'Ait Melloul, 20-22 December 2021.
+
